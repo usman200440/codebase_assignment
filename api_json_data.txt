@@ -1,0 +1,26 @@
+//Send otp
+{
+  "mobile_number":"xxxxxxxxxxx"
+}
+
+//Verify Otp and Register User Data
+{
+  "otp_num": xxxx,
+  "name": "xxxxx",
+  "email": "xxxxxxx.com",
+  "gender": "male/female",
+  "dob": "xxxx-xx-xx"
+}
+
+//User Address register
+{
+    "house_no": "xxxxx",
+    "street": "xxxxx",
+    "city": "xxxxx",
+    "area": "xxxxx"
+}
+
+//Security Pin
+{
+  "pin":"xxxx"
+}

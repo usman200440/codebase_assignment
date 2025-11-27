@@ -1,0 +1,6 @@
+@codebase_Assignment_HostAddress = http://localhost:5117
+
+GET {{codebase_Assignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
